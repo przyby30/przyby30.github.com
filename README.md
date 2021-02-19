@@ -1,1 +1,3 @@
-bro idk tho
+##Please be quiet, the machines are trying to learn...
+A site to showcase my adventures in data science
+
